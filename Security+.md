@@ -1,9 +1,5 @@
-# Preparation Plan
-- Run through Professor Messer's videos (177).
-- There are 35 sections (1.1 - 5.5)
-	- Maybe do a section or two a day.
-- Try and complete and chapter section or more everyday.
-- Do the practice test after running through he chapter section.
+# Security +
+These are my resources and study notes for the CompTIA Security+ Exam.
 
 [Exam Objectives](https://www.certblaster.com/wp-content/uploads/2020/11/CompTIA-Security-SY0-601-Exam-Objectives-1.0.pdf)
 
