@@ -1,2 +1,2 @@
 # Security_Plus
-Notes for Security+
+Notes for CompTIA Security+ Exam 601
