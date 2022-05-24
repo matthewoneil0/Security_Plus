@@ -13,3 +13,4 @@ Chapters:
 [[1.0 Threats, Attacks & Vulnerabilities]]
 [[2.0 Architecture & Design]]
 [[3.0 Implementation]]
+[[4.0 Operations & Incident Response]]
