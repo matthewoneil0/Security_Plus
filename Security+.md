@@ -14,3 +14,4 @@ Chapters:
 [[2.0 Architecture & Design]]
 [[3.0 Implementation]]
 [[4.0 Operations & Incident Response]]
+[[5.0 Governance, Risk, & Compliance]]
